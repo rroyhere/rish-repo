@@ -1,49 +1,7 @@
 # Jobs
 
 # Senior Principal Software Architect
-- company: Fair Isaac and Company
-  position: Senior Principal Software Architect
-  duration: Feb, 2022 &mdash; Present
-  summary: "Working as Enterprise Architect as part of Technical Enterprise Architecture groupn within FICO focussing on the new multi cloud platform machine learning, origination, simulation, transaction fraud products\t<ul class=\"resume-item-list\"><li>Received highest year end rating for outstanding performance throughout the year. Also received spot award for exemplary performance in architecture and solving engineering problems</li><li>Multi cloud control plane technology framework design, implementation with kube native declarative approach driven composition. Decomposed FICO product functions and composed with new capabilities & aspects. Composition impl of declarative infrastructure provisioning, deployment, progressive delivery with blue-green, canary, experimentation, feature flag etc.</li>Enterprise architecture for Authoring in cloud and deployment + execution on-prem or multi cloud at various segmentation units (tenants) within or across organizational units (clients)</li><li>Advance network CNI usage with calico/cilium with eBPF for better utilization of host level resources, optimal return packet transport and other benefits</li><li>Engineering activities with EKS, Kubernetes security, event driven micro services, AuthN/AuthZ with platform centricity, Istio, mTLS, GitOps, Cloud native control plane framework, POC validation on Pulsar, Red panda</li></ul>"
-
-
-# Principal Architect
-- company: Cognizant Technology Solutions
-  clients: Clients - JPMorgan Chase (Merchant Payment Tech, GTI), Discover, Corelogic
-  position: Principal Software Architect
-  duration: Aug, 2016 &mdash; Nov 2021
-  summary: "Hands on Architecture, AIOps, events & streaming apps, ML model building, deployment modernization. Received highest year end performance ratings for outstanding exceeding all all performance ratings for 4 consecutive years. Also received other awards for outstanding performance and promotion in designation. Successfully delivered mission critical projects with esteemed client organizations.\t<ul class=\"resume-item-list\"><li>Created modern cloud architecture and domain driven designs for merchant acquirer payment processing system of JPMC (various domains included accept, connect, data) and network brands of FSI like Discover</li><li>Highly Scalable, Kubernetes based, Micro services oriented, event driven ML platform for predicting Infrastructure anomalies and Kafka failure prediction</li><li>Streaming & Big Data based Enterprise Data platform for Cyber-GTI group with one of the largest Kafka cluster</li><li>Blockchain engagement – building ETH frameworks for quorum applications and strategic solution building around international clearing and settlement amongst participating banks and partners in consensus protocol with JPM’s LIINK (former IIN) JPMC 2019</li><li>Worked as Enterprise Architect with mortgage client for creating IDAP architecture, tool, software selection, Software & hardware capacity planning for NAS & Hadoop infra</li><li>Architecture, ML and MLOps for IDAP data loading for Property, Building, Trans, MLS, Appraisal, Geospatial (shp, tab info) data ingestion to Hadoop and ML apps build</li><li>IDAP Data science specific model development, operationalization, Apache Spark code development, infrastructure setup, Kafka infra set up, training team members</li><li>Hands on Architecture, design for Mastercard’s cross border payment solutioning for Wyth/Concentra Financial</li><li>Digital strategy, experience, Architecture for Prospect journey of high-net-worth clients of UBS</li></ul>"
-
-# Senior Scientist
-- company: FICO
-  position: Senior Scientist
-  duration: 2016 &mdash; 2016
-  summary: "Worked as a senior scientist in network fraud detection AI/ML team for design and implementing streaming based neural network model predicting network fraudulent transaction packets\t<ul class=\"resume-item-list\"><li>Cyber fraud predictive analytics, transaction analytics with real time streaming infrastructure, model understanding, statistical and mathematical formulation understanding and tuning for fraud detection and infrastructure provisioning from underlying runtime engine.</li><li>Value based, low risk and Highly reliable, highly scalable streaming platform approaches, sold ideation and delivered projects</li></ul>"
-
-# Senior Architect
-- company: Wipro Technologies
-  clients: Client - Capital One Bank
-  position: Senior Software Architect
-  duration: 2015  &mdash; 2016
-  summary: "Architected and implemented as a senior architect for capiatal one software big data projects \t<ul class=\"resume-item-list\"><li>Key ideations, architecture creation, application development on Capital One’s Huge data repository with auto and home lending solutions</li><li>Lead the Analytics and Big Data practice projects for over 20 applications and build a global team of over 100 members across US, UK and India Geographies</li></ul>"
-
-# Product Architect
-- company: Altisource Labs
-  position: Product Architect
-  duration: 2014  &mdash; 2015
-  summary: "Driving innovation products and platforms buidling across their complete life cycle and went live in production with mission critical timelines in competitive environments for Altisource next generation products across loan origination, loan servicing, servicing partner integrations."
-
-# Software Architect
-- company: Cognizant Technology Solutions
-  clients: Client - JPMorgan Chase (Wealth Management), United Health Group
-  position: Software Architect
-  duration: 2006 &mdash; 2013
-  summary: "Architected, engineering development, implementation and design for various application back end, middleware and front end layers for private banking products, health care products\t<ul class=\"resume-item-list\"><li>Received outstanding exceed all performance ratings and multiple promotions promotions during the tenure of employment. Successfully delivered mission critical projects with  esteemed client organizations like JPMorgan Chase, United health Group, Optum, Alife medical product company.</li><li>Architecture, Design & Application build for JPMC, United Health Group, Alife-medical, Optum.</li><li>o\tHighly available, high performance computing frameworks around asset wealth management, trading platform, healthcare computer assisted coding (JBOSS clustering, Hornet-Q clustering, SaaS implementation), Architecture & Design for SAAS platform development, clustering</li></ul>"
-
-# Software engineer
-- company: Infosys Technologies
-  clients: Client - ABN-AMRO
-  position: Software Engineer
-  duration: 2004 &mdash; 2006
-  summary: "Engieering design, development and implementation in production for ABN AMRO bank's cross sell application and loss given default product suites.\t<ul class=\"resume-item-list\"><li>Received outstanding exceed all performance ratings and multiple promotions promotions during the tenure of employment. Successfully delivered mission critical projects with  esteemed client organizations like JPMorgan Chase, United health Group, Optum, Alife medical product company.<li>Architecture, Design & Application build for ABN-AMRO bank</li><li>Loss given defaulter (LGD) application building with front end and backend coding, model performance algorithm building using Java</li><li>Risk model application design using Rational Rose tool</li></ul>"
-
+- school: Centennial High School
+  position: Rising Junior
+  duration: Aug, 2023 &mdash; Present
+  summary: "Student of high school with passion in aerospace engineering\t<ul class=\"resume-item-list\"><li>Received highest year end rating for outstanding performance throughout the year. Also received spot award for exemplary performance in architecture and solving engineering problems</li><li>Multi cloud control plane technology framework design, implementation with kube native declarative approach driven composition. Decomposed FICO product functions and composed with new capabilities & aspects. Composition impl of declarative infrastructure provisioning, deployment, progressive delivery with blue-green, canary, experimentation, feature flag etc.</li>Enterprise architecture for Authoring in cloud and deployment + execution on-prem or multi cloud at various segmentation units (tenants) within or across organizational units (clients)</li><li>Advance network CNI usage with calico/cilium with eBPF for better utilization of host level resources, optimal return packet transport and other benefits</li><li>Engineering activities with EKS, Kubernetes security, event driven micro services, AuthN/AuthZ with platform centricity, Istio, mTLS, GitOps, Cloud native control plane framework, POC validation on Pulsar, Red panda</li></ul>"
